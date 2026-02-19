@@ -1,4 +1,4 @@
-# Privy Auth + Solana `create-next-solana-app` Starter
+# Privy Auth + Solana `create-solana-next-app` Starter
 
 > **This repository is archived.** For up-to-date examples, please visit [github.com/privy-io/examples](https://github.com/privy-io/examples).
 
@@ -11,7 +11,7 @@ This demo uses NextJS's [App Router](https://nextjs.org/docs/app).
 1. Clone this repository and open it in your terminal.
 
 ```bash
-git clone https://github.com/privy-io/create-next-solana-app.git && cd create-next-solana-app
+git clone https://github.com/privy-io/create-solana-next-app.git && cd create-solana-next-app
 ```
 
 2. Install the dependencies.
